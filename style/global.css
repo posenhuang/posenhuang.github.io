@@ -1,0 +1,114 @@
+body {
+    font-family: "Times New Roman",sans-serif;
+    font-size: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2 {
+    color: rgb(40,40,40);
+}
+
+h1 {
+    font-family: "Georgia", "Times New Roman", serif;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    line-height: 28px;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1.7em;
+    padding: 0;
+    margin: 0;
+}
+
+h1 a {
+    text-decoration: none;
+    color: rgb(20,20,20);
+}
+
+h2 {
+    margin: 25px 0 20px 0;
+    padding: 0;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.1em;
+    text-transform: capitalize;
+}
+
+h3 {
+    line-height: 140%;
+    text-align: justify;
+    font-size: 1.1em;
+    padding: 0;
+    margin: 0;
+    color: #B22222;
+}
+
+p {
+    line-height: 140%;
+    text-align: justify;
+    font-size: 1em;
+    padding: 0;
+    margin: 0;
+    color: rgb(40,40,40);
+}
+
+
+a.inline_organge {
+    text-decoration: none;
+    color: orange;
+}
+
+a.inline {
+    text-decoration: none;
+}
+
+a.inline:link {
+    color: rgb(180,0,0);
+}
+
+a.inline:visited {
+    color: rgb(180,0,0);
+}
+
+a.inline:hover {
+    color: rgb(240,0,0);
+}
+
+a.inline:active {
+    color: rgb(180,0,0);
+}
+
+a.class5 {
+    color: rgb(40, 40, 40);
+}
+a.class5:visited {
+    color: rgb(66, 66, 66);
+    text-decoration: none;
+}
+a.class5:hover {
+    color: rgb(120, 120, 120);
+    text-decoration: none;
+}
+
+a.download {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(180,0,0);
+}
+
+a.download:hover {
+    color: rgb(240,0,0);
+}
+
+#docbase {
+    margin-right: auto;
+    margin-left: auto;
+    width: 760px;
+}
+

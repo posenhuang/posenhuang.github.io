@@ -1,0 +1,70 @@
+p.content {
+    padding:0 0 0 3em;
+}
+
+p.content_squeeze {
+    padding:0 10em 0 3em;
+}
+
+p.date {
+    float:right;
+}
+
+li.skilltype {
+    display: block;
+    height: 1.4em;
+    width: 7em;
+    float: left;
+}
+
+li.skillitem {
+    display: block;
+    height: 1.4em;
+    width: auto;
+    clear: right;
+
+}
+
+li.projectitem {
+    display: block;
+    font-size: 1em;
+    width: auto;
+    clear: right;
+}
+
+#skillset {
+    list-style-type: none;
+    font-size: 0.9em;
+    padding: 0 0 0 3em;
+    margin: 0;
+    clear: right;
+}
+
+ol.square {
+    margin: 0;
+    /*padding:0 0 0 4em;*/
+    padding:0 0 0 5em;
+    font-size: 1em;
+    color: rgb(40,40,40);
+    list-style-type: square;
+    line-height: 140%;
+    text-align: justify;
+}
+
+ol.decimal {
+    margin: 0;
+    padding:0 0 0 3em;
+    font-size: 1em;
+    color: rgb(40,40,40);
+    list-style-type: decimal;
+    line-height: 140%;
+    text-align: justify;
+}
+
+/*  line-height: 140%;
+    text-align: justify;
+    font-size: 1em;
+    padding: 0;
+    margin: 0;
+    color: rgb(40,40,40);
+*/
