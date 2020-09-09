@@ -1,0 +1,14 @@
+#footer {
+    padding: 0px 0px 20px 0px;
+    margin: 150px 0px 0px 0px;
+}
+
+p.footer {
+    font-family: "Ariel", "Helvetia", sans-serif;
+    text-align: center;
+    font-size: 0.7em;
+    padding: 0;
+    margin: 0;
+    color: rgb(120,120,120);
+}
+

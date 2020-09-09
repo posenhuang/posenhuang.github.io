@@ -1,0 +1,14 @@
+#header {
+    padding: 0;
+    margin: 16px 0px 0px 0px;
+    height: 28px;
+    clear: right;
+}
+
+#logo {
+    vertical-align: middle;
+    margin-right: 8px;
+    border: 0;
+    float: left;
+}
+
